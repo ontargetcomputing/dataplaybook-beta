@@ -1,9 +1,9 @@
 # Setup
-title:            DATA PLAYBOOK Test2
+title:            DATA PLAYBOOK
 tagline:          'California Health and Human Services Agency'
 description:      'CHHS Data Playbook Description'
-url:              'https://ontargetcomputing.github.io/dataplaybook-beta/'
-baseurl:          'https://ontargetcomputing.github.io/dataplaybook-beta/'
+url:              'https://ontargetcomputing.github.io/dataplaybook-beta'
+baseurl:          'https://ontargetcomputing.github.io/dataplaybook-beta'
 
 # markdown:         CommonMarkGhPages
 
