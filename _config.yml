@@ -3,7 +3,7 @@ title:            DATA PLAYBOOK Test
 tagline:          'California Health and Human Services Agency'
 description:      'CHHS Data Playbook Description'
 url:              'https://chhsdata.github.io/dataplaybook-beta/'
-baseurl:          ''
+baseurl:          'https://chhsdata.github.io/dataplaybook-beta/'
 
 # markdown:         CommonMarkGhPages
 
