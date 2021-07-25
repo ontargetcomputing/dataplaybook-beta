@@ -2,10 +2,11 @@
 layout: page
 title: Resource Library
 permalink: /resource_library/
+printable: true
 ---
 Below you can explore different data resources. Click on each heading to navigate to each section of resources.
 
-<a name="top"></a>
+<a name="top_7"></a>
 ### Table of Contents
 ###   1. [Internal CHHS Strategies and Guidelines](#internal)
 ###   2. [Goal Setting](#goals)
@@ -33,7 +34,7 @@ If you are ever stuck, contact your Department’s data coordinator for informat
 * [CHHS Data De-Identification Guidelines]({{ site.baseurl }}/documents/CHHS-DDG-V1.0-092316.pdf "CHHS Data De-Identification Guidelines")
 * [U.S. Digital Services Playbook](https://playbook.cio.gov/ "U.S. Digital Services Playbook")
 
->[Click for Back to Top](#top)
+>[Click for Back to Top](#top_7)
 
 ___
 
@@ -48,7 +49,7 @@ ___
 * [Analytics Capability Assessment for Human Service Agencies](https://chhsdata.github.io/dataplaybook/documents/APHSA-Analytic-Capability-Roadmap-1-0-for-Human-Services-Agencies.pdf) gives more specific data readiness guidance.
 * [Roadmap to Capacity Building in Analytics](https://chhsdata.github.io/dataplaybook/documents/APHSA-Roadmap-to-Capacity-Building-in-Analytics-White-Paper.pdf) - This document is dense, but gives great insight into what you need to carry out a successful product.
 
->[Click for Back to Top](#top)
+>[Click for Back to Top](#top_7)
 
 ___
 
@@ -65,7 +66,7 @@ Public data resources are available from a number of online sources, including t
 * [California Healthy Places Index](https://healthyplacesindex.org/ "California Healthy Places Index") - A tool to explore community conditions that predict life expectancy. It contains user-friendly mapping and data resources at the census tract level across California. 
 * [CHHS Open Data Portal](https://data.chhs.ca.gov/ "CHHS Open Data Portal") - Offers access to standardized data that can be easily retrieved, combined, downloaded, sorted, searched, analyzed, redistributed and re-used by individuals, business, researchers, journalists, developers, and government to process, trend, and innovate.
 
->[Click for Back to Top](#top)
+>[Click for Back to Top](#top_7)
 
 ___
 
@@ -79,7 +80,7 @@ Here are some key concepts and help integrating them into Excel
 * [Multiple Regression in Excel](https://www.businessinsider.com/understand-excel-multiple-regression-2014-10)
 * [Statistical Significance](https://hbr.org/2016/02/a-refresher-on-statistical-significance) 
 
->[Click for Back to Top](#top)
+>[Click for Back to Top](#top_7)
 
 ___
 
@@ -101,7 +102,7 @@ More sophisticated guides are listed below:
 * **Advanced:** [D3.js](https://d3js.org/) – Data-Driven Documents D3 is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
 * **All levels**: Coursera often has free online [Data Visualization Courses](https://www.coursera.org/search?query=data&nbsp;visualization&) — check to see if one is available!
 
->[Click for Back to Top](#top)
+>[Click for Back to Top](#top_7)
 
 ___
 
@@ -111,7 +112,7 @@ ___
 * Use a word editing app like [Hemingway](http://www.hemingwayapp.com) to **improve** the readability of your writing. Hemingway will highlight lengthy or run-on sentences, remove overly dense writing, offer alternatives for weak adverbs and phrases as well as poor formatting choices. 
 * **Visualize** your story with a storyboard (see MIT’s [guide](https://datatherapy.org/activities/activity-finding-a-story-in-data/) to finding a story in your data)
 
->[Click for Back to Top](#top)
+>[Click for Back to Top](#top_7)
 
 <!-- Pagination -->
 <div class="pagination">

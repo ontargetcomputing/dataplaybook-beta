@@ -2,10 +2,11 @@
 layout: page
 title:  Analyzing your Data
 permalink: /analyze/
+printable: true
 ---
 ## Section 2: Analyzing Your Data
 
-<a name="top"></a>
+<a name="top_2"></a>
 ### Table of Contents
 ###   Part A: [Cleaning your Dataset](#cleaning "Cleaning & De-Identifying your Dataset")
 ###   Part B: [Learning Resources](#resources "Learning Resources")
@@ -31,7 +32,7 @@ See the full guidelines [here](https://chhsdata.github.io/dataplaybook/documents
 2. While most state agencies are covered by the California Information Practices Act (IPA), some are also covered by or impacted by HIPAA, the United States Health Insurance Portability and Accountability Act. Unlike the IPA, which applies to all personal information, HIPAA only applies to certain health or healthcare-related information. HIPAA requirements apply in combination with IPA requirements.
 3. For Departments covered by HIPAA, de-identification must meet the HIPAA standard. The CHHS Data De-Identification Guidelines serve as a tool to make and document an expert determination consistent with the HIPAA standard.
 
->[Click for Back to Top](#top)
+>[Click for Back to Top](#top_2)
 
 ___
 
@@ -51,7 +52,7 @@ Other Resources:
   * [Khan Academy](https://www.khanacademy.org/computing/ap-computer-science-principles/data-analysis-101) is one of the most popular online learning tools if you have more  specific questions about data analysis.
   * [Lynda](https://www.lynda.com/Tableau-tutorials/Tableau-9-Essential-Training/386886-2.html) has a number of Tableau Learning Tutorials
 
->[Click for Back to Top](#top)
+>[Click for Back to Top](#top_2)
 
 ___
 
@@ -94,7 +95,7 @@ Some examples trends and how to find them:
 
 >**Note**: When comparing distributions or central tendencies between two populations over time, you must prove any differences are statistically significant — that is, **it is more than 95% likely** that the differences you found between populations is actually due to your intervention and **not to random chance**. You can do this using something called a [t-test](http://www.real-statistics.com/students-t-distribution/paired-sample-t-test/).  Read more about statistical  significance [here](https://hbr.org/2016/02/a-refresher-on-statistical-significance).
 
->[Click for Back to Top](#top)
+>[Click for Back to Top](#top_2)
 
 <!-- Pagination -->
 <div class="pagination">

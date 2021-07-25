@@ -2,10 +2,11 @@
 layout: page
 title:  Planning your Data Project 
 permalink: /plan/
+printable: true 
 ---
 ## Section 1: Planning for your Data Project
 
-<a name="top"></a>
+<a name="top_1"></a>
 ### Table of Contents:
 ###   Part A. [Determining Goals and Strategy](#goals-strategy)
 ###   Part B. [What Data you will Need](#collect)
@@ -118,7 +119,7 @@ List everything that comes to mind when you answer the those **guiding questions
 ![Sample Logic Model]({{ site.baseurl }}/assets/images/01_figure08.png "Sample Logic Model")
 A Sample Logic Model from [CDC.gov](https://www.cdc.gov/dhdsp/docs/logic_model.pdf)
 
->[Click for Back to Top](#top)
+>[Click for Back to Top](#top_1)
 
 ___
 
