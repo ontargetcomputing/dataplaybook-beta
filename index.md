@@ -38,5 +38,11 @@ If you need help accessing any of the materials in the Playbook, please contact 
 
 
 <div id="printedpages">
-<a href="http://www.google.com">
+  {% assign pages_list = site.pages %}
+  {% for node in pages_list %}
+    {% if node.printable == true %}  
+      {% capture to_include %}{% include_relative {{node.path}} %}{% endcapture %}
+      {{ to_include | markdownify }}
+    {% endif %}
+  {% endfor %}
 </div>
