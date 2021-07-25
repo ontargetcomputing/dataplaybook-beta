@@ -2,7 +2,7 @@
 layout: page
 title: Resource Library
 permalink: /resource_library/
-printable: true
+printable: truea
 ---
 Below you can explore different data resources. Click on each heading to navigate to each section of resources.
 

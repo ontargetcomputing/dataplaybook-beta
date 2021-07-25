@@ -2,7 +2,7 @@
 layout: page
 title: Communicating Your Results
 permalink: /communicate/
-printable: true
+printable: trues
 ---
 ## Section 3: Communicating Your Results
 

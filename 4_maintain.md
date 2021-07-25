@@ -2,7 +2,7 @@
 layout: page
 title: Concluding your Project
 permalink: /maintain/
-printable: true
+printable: trues
 ---
 ## Section 4: Concluding Your Project
 

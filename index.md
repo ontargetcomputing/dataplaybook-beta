@@ -41,7 +41,7 @@ If you need help accessing any of the materials in the Playbook, please contact 
   {% assign pages_list = site.pages %}
   {% for node in pages_list %}
     {% if node.printable == true %}  
-      {% capture to_include %}{% include_relative {{node.path}} %}{% endcapture %}
+      {% capture to_include %}{% include_relative {{node.path | prepend: 'printable_'}} %}{% endcapture %}
       {{ to_include | markdownify }}
     {% endif %}
   {% endfor %}

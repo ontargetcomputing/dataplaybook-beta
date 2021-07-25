@@ -2,7 +2,7 @@
 layout: page
 title:  Analyzing your Data
 permalink: /analyze/
-printable: true
+printable: truea
 ---
 ## Section 2: Analyzing Your Data
 
