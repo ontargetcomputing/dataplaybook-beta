@@ -2,10 +2,6 @@
   display: none;
 }
 
-.inline {
-  display: inline;
-}
-
 @media print {
   #sidebar {
     visibility: hidden;
