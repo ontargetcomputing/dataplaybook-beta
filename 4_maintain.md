@@ -2,10 +2,11 @@
 layout: page
 title: Concluding your Project
 permalink: /maintain/
+printable: true
 ---
 ## Section 4: Concluding Your Project
 
-<a name="top"></a>
+<a name="top_4"></a>
 ### Table of Contents
 ###   Part A: [From Data Projects to Data Products](#projects)
 ###   Part B: [The Product Lifecycle](#lifecycle)
@@ -25,7 +26,7 @@ ___
   Since projects are so narrow in scope, they are often left unmaintained and unmanaged after completion. This is a huge waste of the time and resources that went into that project: what lessons did they learn? How could their strategy be utilized elsewhere? Even small efforts toward maintaining your project — such as getting stakeholder feedback every six months — transform your project's impact.
   What’s more, the product mindset can teach you to be adaptable, flexible, and creative; three skills necessary to building longer-lasting and more innovative solutions. The product design principles in this section will give some strategies for improving your project’s outcome/service over time by constantly seeking feedback and maintaining your data. 
 
->[Click for Back to Top](#top)
+>[Click for Back to Top](#top_4)
 
 ___
 
@@ -52,7 +53,7 @@ With these stages in mind, **ask yourself the following questions:**
 
 Your answers will inform how you choose to maintain your product or project over time, and will help you anticipate the natural rise and fall that will occur. 
 
->[Click for Back to Top](#top)
+>[Click for Back to Top](#top_4)
 
 ___
 
@@ -62,7 +63,7 @@ A number of incredibly valuable research projects and compiled/cleaned datasets 
 
   First, see the [Data De-Identification Guidelines](https://chhsdata.github.io/dataplaybook/documents/CHHS-DDG-V1.0-092316.pdf) to ensure your dataset is de-identified and all redacted information removed. Next, go to the [CHHS Open Data Portal](https://data.chhs.ca.gov/). [OpenGov.com](OpenGov.com), the host of the data portal, runs the site on an open-source data platform called [CKAN](ckan.org) which provides a FileStore API that enables **automation of dataset updates**. See Python documentation [here](https://docs.ckan.org/en/latest/maintaining/filestore.html#filestore-api).
 
->[Click for Back to Top](#top)
+>[Click for Back to Top](#top_4)
 
 ___
 
@@ -100,7 +101,7 @@ When it comes to organizing your feedback, it generally depends on the product o
 
 The most important part of getting feedback is **actually acting on it** — get your team together to brainstorm ways to meet the developing needs of the customer, and improve it in any way you can. 
 
->[Click for Back to Top](#top)
+>[Click for Back to Top](#top_4)
 
 <!-- Pagination -->
 <div class="pagination">

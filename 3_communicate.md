@@ -2,10 +2,11 @@
 layout: page
 title: Communicating Your Results
 permalink: /communicate/
+printable: true
 ---
 ## Section 3: Communicating Your Results
 
-<a name="top"></a>
+<a name="top_3"></a>
 ### Table of Contents
 ###   Part A: [Crafting your data narrative](#narrative "Crafting your data narrative")
 ###   Part B: [Designing Effective Visualizations](#visualize "Designing Effective Visualizations")
@@ -49,7 +50,7 @@ Your data story can and should change based on your intended audience. The conte
 |- Similarly, balance your **quantitative data** with **qualitative data**  — too much dry facts or too many numbers may work against a compelling data story<br />- Anecdotes, stories, and contextualizing comments also count |
 |- **Start** with your ultimate **goal**: What message do you want the audience to walk away with? |
 
->[Click for Back to Top](#top)
+>[Click for Back to Top](#top_3)
 
 ___
 
@@ -70,7 +71,7 @@ For more complex data projects, choosing the right visualization is more than ju
 >  5. **Intermediate-Advanced**: The [Data Visualization Catalogue](https://datavizcatalogue.com/search.html) has a comprehensive list of charts that are separated by what data visualization function they employ.
 > 6. **All levels**: Coursera often has free online [Data Visualization Courses](https://www.coursera.org/search?query=data&nbsp;visualization&) — check to see if one is available!
 
->[Click for Back to Top](#top)
+>[Click for Back to Top](#top_3)
 
 ___
 
@@ -88,7 +89,7 @@ Across the agency, there are a few existing groups and initiatives that exist to
   * Your department or program may have an **established visual and brand style** that provides credibility to your data analysis, thus increasing its chances of publication. These styles standardize color themes, fonts, and citation formats across agency publications.
   * A repository of **CHHS data assets** is currently underway to streamline creation, maintenance, and sharing of each department’s resources. 
 
->[Click for Back to Top](#top)
+>[Click for Back to Top](#top_3)
 
 <!-- Pagination -->
 <div class="pagination">
