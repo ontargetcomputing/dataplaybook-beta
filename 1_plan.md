@@ -4,4 +4,4 @@ title:  Planning your Data Project
 permalink: /plan/
 printable: true 
 ---
-{% include_relative printable_1_plan.md %}
+{% include_relative {{page.path | prepend: 'includes/' }} %}
