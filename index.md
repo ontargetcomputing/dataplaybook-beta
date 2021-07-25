@@ -35,3 +35,8 @@ If you need help accessing any of the materials in the Playbook, please contact 
   <span class="pagination-item older">&laquo; Prev</span>
   <a class="pagination-item newer" href="{{ site.baseurl }}/plan">Next &raquo;</a>
 </div>
+
+
+<div id="printedpages">
+<a href="http://www.google.com">
+</div>

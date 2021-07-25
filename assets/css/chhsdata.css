@@ -1,6 +1,26 @@
+#printedpages {
+  display: none;
+}
+
+.inline {
+  display: inline;
+}
+
 @media print {
   #sidebar {
     visibility: hidden;
     display: none;
   }
+
+  .pagination {
+    visibility: hidden;
+    display: none;
+  }
+
+  #printedpages {
+    display: inline;
+  }
 }
+
+
+
